@@ -1,3 +1,3 @@
 # Animation Inc.
-Gamey Bobs
-<p> Tiss my game aboot pooncakes</p>
+Game: Pancake Smasher
+
